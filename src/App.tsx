@@ -4,7 +4,7 @@ import Navbar from "./Shared/Navbar";
 
 function App() {
   return (
-    <div className="bg-gray-100">
+    <div>
       <Navbar></Navbar>
       <Home></Home>
     </div>
